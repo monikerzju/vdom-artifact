@@ -1,4 +1,4 @@
-# VDom: Fast and Unlimited Virtual Domains on Multiple Architectures
+# VDom Artifact
 
 This archive contains the source code of VDom modified Linux kernel, user-space libraries, microbenchmarks, application benchmarks, and scripts necessary to reproduce the papaer’s evaluation results.
 
